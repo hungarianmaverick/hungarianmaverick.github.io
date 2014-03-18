@@ -1,0 +1,3 @@
+[submodule "mathgame"]
+	path = mathgame
+	url = https://github.com/hungarianmaverick/mathgame.git
